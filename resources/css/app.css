@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Styles */
+svg {
+    width: 1rem;
+    height: 1rem;
+}
