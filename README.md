@@ -59,3 +59,22 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+
+###Main Pages ###
+in this project (Global Restuurant APP), as a food delivery App, we built 4 pages:
+1. Welcoming page:
+   <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6f37686f-f95c-4650-bea2-21933f01d16b" />
+2. Admin Dashboard:
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/059a1ed0-0806-43de-be83-20e3da827c87" />
+3. Resturant Dashboard (Service Provider)
+   <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a558e228-1e64-4984-8e1d-189bd4f1e6c4" />
+ 4. User Dashboard(Customer)
+    <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c177228d-3696-470c-a3a1-ed66a81bb573" />
+  
+
+   
+
+6. 
